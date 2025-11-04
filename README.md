@@ -29,6 +29,11 @@ This dashboard was built following the excellent tutorial by Alex the Ananlyst: 
 ▶️ [Alex The Analyst – YouTube Tutorial](https://www.youtube.com/watch?v=opJgMj1IUrc)  
 📊 [Original Bike Sales Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
+## File Structure  
+- `Dataset (modified).xlsx` → **my copy** with few new columns, zero changes to the raw dataset. 
+- `Pivot Tables` → all pivots  
+- `Dashboard` → slicers & charts
+  
 **Dataset**: Sourced from Alex The Analyst's Excel Tutorial repo. 
 
 No modifications to the core data; all analysis is original. This project is for educational/portfolio purposes only.
