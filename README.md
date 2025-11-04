@@ -24,14 +24,14 @@ An interactive dashboard built in Microsoft Excel to analyze bike sales data. Th
 
 ## Credits & Attribution
 This dashboard was built following the excellent tutorial by Alex the Ananlyst: Full Project in Excel
+Link:https://youtu.be/opJgMj1IUrc?si=Oe-HSx-3xQTGJ9jS
 
 **Dataset**: Sourced from Alex The Analyst's Excel Tutorial repo. 
 
 No modifications to the core data; all analysis is original. This project is for educational/portfolio purposes only.
 
 ## Contact
-Built by [Your Name](https://github.com/HMirza2024) | Feedback welcome!
+Built by [Hiba Mirza](https://github.com/HMirza2024) | Feedback welcome!
 
----
 
 ⭐ Star this repo if it helps you! Contributions via pull requests encouraged.
