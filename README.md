@@ -12,6 +12,8 @@ An interactive dashboard built in Microsoft Excel to analyze bike sales data. Th
   -Bike purchases are highest among customers with shorter commute distances.
   -Graduate and bachelor degree holders are more likely to buy bikes.
   -Peak buying age lies between 30–45 years.
+  <img width="832" height="674" alt="Dashboard" src="https://github.com/user-attachments/assets/4eb57b31-72b0-4e9b-a947-74e54762ebc1" />
+
 
 ## How to Use
 1. Download/clone this repo.
@@ -24,7 +26,8 @@ An interactive dashboard built in Microsoft Excel to analyze bike sales data. Th
 
 ## Credits & Attribution
 This dashboard was built following the excellent tutorial by Alex the Ananlyst: Full Project in Excel
-Link:https://youtu.be/opJgMj1IUrc?si=Oe-HSx-3xQTGJ9jS
+▶️ [Alex The Analyst – YouTube Tutorial](https://www.youtube.com/watch?v=opJgMj1IUrc)  
+📊 [Original Bike Sales Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 **Dataset**: Sourced from Alex The Analyst's Excel Tutorial repo. 
 
